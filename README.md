@@ -1,0 +1,1 @@
+# ZZRS_ANALIZA_AWS
